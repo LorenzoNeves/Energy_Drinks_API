@@ -23,8 +23,8 @@ This is a Flask application that provides endpoints to create, read, update, and
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/drinks-api.git
-cd drinks-api
+git clone https://github.com/LorenzoNeves/Energy_Drinks_API.git
+cd Energy_Drinks_API
 ```
 
 ### 2. Create a virtual environment (recommended)
